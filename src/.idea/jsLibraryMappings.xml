@@ -3,5 +3,6 @@
   <component name="JavaScriptLibraryMappings">
     <file url="file://$PROJECT_DIR$/hapi-test/app.js" libraries="{@types/node}" />
     <file url="PROJECT" libraries="{@types/node}" />
+    <includedPredefinedLibrary name="Node.js Core" />
   </component>
 </project>

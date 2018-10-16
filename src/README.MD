@@ -7,15 +7,14 @@ http://hapijs.com/
     npm init
     npm install hapi --save
     
-    
+## Express.js
+http://expressjs.com
     
     npm install express-generator -g
     express ./express-test
     
     //install dependencies:
-    cd ./express-test
-    npm install
+    cd ./express-test & npm install
     
     //run the app:
-    DEBUG=express-test:* ./bin/wwww
-
+    set DEBUG=express-test:* & npm start
